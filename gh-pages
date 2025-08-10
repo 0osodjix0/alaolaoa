@@ -1,1 +1,4 @@
 git checkout -b gh-pages
+git checkout main -- css/style.css
+git checkout main -- js/app.js
+git checkout main -- js/config.js
